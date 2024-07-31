@@ -113,7 +113,7 @@ export default function Header({ children }) {
                                     background-image: url("${avatar}");
                                 }
                             `}</style>
-                            {/* <img data-aos="zoom-in-up" src={avatar === "" ? userAvatar.src : avatar} className={`avatar rounded-[50%] `} /> */}
+                            <img data-aos="zoom-in-up" src={avatar === "" ? userAvatar.src : avatar} className={`avatar rounded-[50%] `} />
                         </div>
                         <div data-aos="fade-up" className={`circleA`}>
                             <img src={languages.languages.length === 0 && languages.languages.length > 2 ? "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" : languages.languages[0]} className={`langImgA`} />
