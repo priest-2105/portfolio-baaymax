@@ -1,5 +1,5 @@
 import { Container } from ".."
-import { FaTwitter, FaGithub, FaFacebook, FaVoicemail } from 'react-icons/fa'
+import { Falinkedin, FaGithub, FaFacebook, FaVoicemail } from 'react-icons/fa'
 import { AiFillMail } from "react-icons/ai"
 
 import { socials } from "../../data/socials.json"
@@ -21,7 +21,7 @@ function Footer() {
           </div>
           <div className="right">
             <div className="socials flex flex-row items-center justify-center">
-              {socials["twitter"] !== "" && <SocialLink url={socials["twitter"]} children={<FaTwitter />} />}
+              {socials["linkedin"] !== "" && <SocialLink url={socials["linkedin"]} children={<Falinkedin />} />}
 
               {socials["github"] !== "" && <SocialLink url={socials["github"]} children={<FaGithub />} />}
 
