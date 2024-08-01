@@ -63,7 +63,7 @@ function Projects() {
                 </Link>
             </div>
 
-            <div className="projects w-full h-auto p-3 flex flex-wrap justify-between mb-[50px]">
+            <div style={{marginTop:"100px"}} className="projects w-full h-auto p-3 flex flex-wrap justify-between mb-[50px]">
     {projects.length > 0
         ? projects.slice(0, 6).map((list, i) => (
               <div

@@ -2,34 +2,34 @@
     "projects":[
         {
             "title": "Xele",
-            "imageUrl": "https://ibb.co/x6gg8S5",
+            "imageUrl": "https://i.ibb.co/Rc664pH/Screenshot-461.png",
             "project_url": "https://github.com/priest-2105/xelle",
             "description": "Generate developer portfolio site from your github profile.",
             "tags": [ "React", "FireBase" ]
         },
         {
-            "title": "Babcock Ride",
+            "title": "Xvision",
             "imageUrl": "https://raw.githubusercontent.com/Benrobo/babcock-uber/main/readmeImg/babcock-profile.png",
             "project_url": "https://github.com/Benrobo/babcock-uber",
             "description": "Get a ride quickly as possible using this app meant for the babcock university.",
             "tags": [ "react", "postgresql", "nodejs" ]
         },
         {
-            "title": "E-Workflow",
+            "title": "Xtream",
             "imageUrl": "https://raw.githubusercontent.com/Benrobo/e-workflow-client/main/readmeImg/dashboard.png",
             "project_url": "https://github.com/Benrobo/e-workflow-client",
             "description": "Automate document submission within a school.",
-            "tags": [ "react", "postgresql", "nodejs" ]
+            "tags": [ "React", "Firebase", "IDMB api" ]
         },
         {
-            "title": "Quickr",
+            "title": "Xchat",
             "imageUrl": "https://raw.githubusercontent.com/Benrobo/quickr/main/readmeImg/quickr1.png",
             "project_url": "https://github.com/Benrobo/quickr",
             "description": "Generate unique resume / CV.",
             "tags": [ "react", "nodejs" ]
         },
         {
-            "title": "PayRill",
+            "title": "Day and Night",
             "imageUrl": "https://camo.githubusercontent.com/b9b0a0e9957c3fe08d47cbacbd36dd87242837f5ce88f00ed9db4cd3da8fd3d9/68747470733a2f2f643131327936393861646975327a2e636c6f756466726f6e742e6e65742f70686f746f732f70726f64756374696f6e2f736f6674776172655f70686f746f732f3030322f3232312f3931352f64617461732f67616c6c6572792e6a7067",
             "project_url": "https://github.com/Benrobo/payrill",
             "description": "Ease Checkout Processes and Reduce queues in shopping stores application powered by Rapyd API.",
