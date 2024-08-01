@@ -12,6 +12,7 @@ export default function DomHead({ pageName = "Home Page" }) {
             <meta name="description" content="Generated using BaayMax." />
             {/* Open Graph / Facebook */}
             <meta property="og:type" content="website" />
+            <link rel="shortcut icon" href="/images/avatar/avatar.png" type="image/x-icon"></link>
             
          
             {/* meta tags end */}
