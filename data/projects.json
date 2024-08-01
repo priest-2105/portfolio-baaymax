@@ -1,11 +1,11 @@
 {
     "projects":[
         {
-            "title": "BaayMax",
-            "imageUrl": "https://github.com/Benrobo/baaymax-cli/raw/master/readmeImg/cli.png?raw=true",
-            "project_url": "https://github.com/Benrobo/baaymax",
+            "title": "Xele",
+            "imageUrl": "https://ibb.co/x6gg8S5",
+            "project_url": "https://github.com/priest-2105/xelle",
             "description": "Generate developer portfolio site from your github profile.",
-            "tags": [ "react", "nodejs" ]
+            "tags": [ "React", "FireBase" ]
         },
         {
             "title": "Babcock Ride",
