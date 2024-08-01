@@ -27,13 +27,12 @@
             "project_url": "https://github.com/priest-2105/x-chat",
             "description": "A live Chat Made With Reactjs.",
             "tags": [ "React", "nodejs", "Socket.IO" ]
-        },
-        {
-            "title": "BojuBoju",
-            "imageUrl": "",
-            "project_url": "https://github.com/youngyusuff6/BojuBoju",
-            "description": "An Anonymous Messaging App",
-            "tags": [ "PHP", "CSS", "BOOTSTRAP" ]
+        }, {
+            "title": "Sunset",
+            "imageUrl": "https://i.ibb.co/9Y84GVm/Screenshot-470.png",
+            "project_url": "https://sunsetjs.netlify.app/",
+            "description": "An animated Sunset made with css transistion and javascript",
+            "tags": [ "HTML", "CSS", "Javascript" ]
         },
         {
             "title": "Car Show",
@@ -42,12 +41,13 @@
             "description": "An Animated Carshow of different Variations",
             "tags": [ "Html", "CSS", "Javascript" ]
         },
-         {
-            "title": "Sunset",
-            "imageUrl": "https://i.ibb.co/9Y84GVm/Screenshot-470.png",
-            "project_url": "https://sunsetjs.netlify.app/",
-            "description": "An animated Sunset made with css transistion and javascript",
-            "tags": [ "HTML", "CSS", "Javascript" ]
+        {
+            "title": "BojuBoju",
+            "imageUrl": "",
+            "project_url": "https://github.com/youngyusuff6/BojuBoju",
+            "description": "An Anonymous Messaging App",
+            "tags": [ "PHP", "CSS", "BOOTSTRAP" ]
         }
+        
     ]
 }
