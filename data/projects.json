@@ -4,21 +4,21 @@
             "title": "Xele",
             "imageUrl": "https://i.ibb.co/Rc664pH/Screenshot-461.png",
             "project_url": "https://github.com/priest-2105/xelle",
-            "description": "Generate developer portfolio site from your github profile.",
+            "description": "A Period Track App made for women ",
             "tags": [ "React", "FireBase" ]
         },
         {
             "title": "Xvision",
-            "imageUrl": "https://raw.githubusercontent.com/Benrobo/babcock-uber/main/readmeImg/babcock-profile.png",
-            "project_url": "https://github.com/Benrobo/babcock-uber",
-            "description": "Get a ride quickly as possible using this app meant for the babcock university.",
-            "tags": [ "react", "postgresql", "nodejs" ]
+            "imageUrl": "https://i.ibb.co/7nMS0zC/Screenshot-462.png",
+            "project_url": "https://github.com/priest-2105/Xvision",
+            "description": "An Ecommerce Store for a glasses",
+            "tags": [ "React", "Firebase", "nodejs" ]
         },
         {
             "title": "Xtream",
-            "imageUrl": "https://raw.githubusercontent.com/Benrobo/e-workflow-client/main/readmeImg/dashboard.png",
-            "project_url": "https://github.com/Benrobo/e-workflow-client",
-            "description": "Automate document submission within a school.",
+            "imageUrl": "https://i.ibb.co/PcScTGm/Screenshot-464.png",
+            "project_url": "https://github.com/priest-2105/xsteam-v2",
+            "description": "A Next js Application Showcasing Latest movie using IDMB API",
             "tags": [ "React", "Firebase", "IDMB api" ]
         },
         {
