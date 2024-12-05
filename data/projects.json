@@ -4,7 +4,7 @@
             "title": "Xele",
             "imageUrl": "https://i.ibb.co/Rc664pH/Screenshot-461.png",
             "project_url": "https://github.com/priest-2105/xelle",
-            "description": "A Period Track App made for women ",
+            "description": "A Period Tracker App made for women ",
             "tags": [ "React", "FireBase" ]
         },
         {
@@ -12,13 +12,13 @@
             "imageUrl": "https://i.ibb.co/7nMS0zC/Screenshot-462.png",
             "project_url": "https://github.com/priest-2105/Xvision",
             "description": "An Ecommerce Store for a glasses",
-            "tags": [ "React", "Firebase", "nodejs" ]
+            "tags": [ "React", "Firebase", "JSX" ]
         },
         {
             "title": "Gymio",
             "imageUrl": "https://i.ibb.co/tHXRCBf/Screenshot-799.png",
             "project_url": "https://github.com/priest-2105/gym-typescript",
-            "description": "A Gym platform for healthy people",
+            "description": "A Gym platform for people aspiring to be healthy",
             "tags": [ "React", "Tailwind", "Typescript" ]
         }, 
         {
@@ -32,7 +32,7 @@
             "title": "Pixel Memento",
             "imageUrl": "https://i.ibb.co/cQP6FD1/Screenshot-798.png",
             "project_url": "#",
-            "description": "An Ecommerce Store Where video frames are sold",
+            "description": "An Ecommerce Store Where mute video frames are sold",
             "tags": [ "Wordpress", "Elementor", "Woo-Commerce" ]
         },
         {
