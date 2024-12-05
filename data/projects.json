@@ -15,6 +15,13 @@
             "tags": [ "React", "Firebase", "nodejs" ]
         },
         {
+            "title": "Gymio",
+            "imageUrl": "https://i.ibb.co/tHXRCBf/Screenshot-799.png",
+            "project_url": "https://github.com/priest-2105/gym-typescript",
+            "description": "A Gym platform for healthy people",
+            "tags": [ "React", "Tailwind", "Typescript" ]
+        }, 
+        {
             "title": "Xtream",
             "imageUrl": "https://i.ibb.co/PcScTGm/Screenshot-464.png",
             "project_url": "https://github.com/priest-2105/xsteam-v2",
@@ -22,23 +29,17 @@
             "tags": [ "React", "Firebase", "Tailwind" ]
         },
         {
-            "title": "Xchat",
-            "imageUrl": "https://i.ibb.co/xG9G582/Screenshot-469.png",
-            "project_url": "https://github.com/priest-2105/x-chat",
-            "description": "A live Chat Made With Reactjs.",
-            "tags": [ "React", "nodejs", "Socket.IO" ]
-        }, {
-            "title": "Sunset",
-            "imageUrl": "https://i.ibb.co/9Y84GVm/Screenshot-470.png",
-            "project_url": "https://sunsetjs.netlify.app/",
-            "description": "An animated Sunset made with css transistion and javascript",
-            "tags": [ "HTML", "CSS", "Javascript" ]
+            "title": "Pixel Memento",
+            "imageUrl": "https://i.ibb.co/cQP6FD1/Screenshot-798.png",
+            "project_url": "#",
+            "description": "An Ecommerce Store Where video frames are sold",
+            "tags": [ "Wordpress", "Elementor", "Woo-Commerce" ]
         },
         {
-            "title": "Car Show",
-            "imageUrl": "https://i.ibb.co/xG81cgT/bandicam-2024-08-01-19-29-26-031.jpg",
-            "project_url": "https://porsche-car-show.netlify.app/",
-            "description": "An Animated Carshow of different Variations",
+            "title": "Snap Story",
+            "imageUrl": "https://i.ibb.co/hFwywxt/Screenshot-796.png",
+            "project_url": "https://github.com/priest-2105/Snapstoryweb",
+            "description": "An Animated Gallery Of Nature and different things that make live enjoyable",
             "tags": [ "Html", "CSS", "Javascript" ]
         },
         {

@@ -12,6 +12,7 @@
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "aos": "^2.3.4",
+    "baymax": "file:",
     "dotenv": "^16.0.0",
     "gradient-string": "^2.0.1",
     "inquirer": "^8.2.4",
